@@ -49,7 +49,4 @@ int victory_handling(char board[3][3]) {
     }
 }
 
-int main() {
-    display_board(3);
-
-}
+int main() {}
